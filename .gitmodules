@@ -1,3 +1,3 @@
-[submodule "mine"]
-	path = mine
-	url = https://github.com/AlolaSunday12/personal-portfolio.git
+	[submodule "mine"]
+    path = mine
+    url = https://github.com/AlolaSunday12/personal-portfolio.git
